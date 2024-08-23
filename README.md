@@ -19,15 +19,20 @@
 - [ExoMy](https://www.smilingrobo.com/projects/itmbtsqmxpjbtp2t1yye) - The 3D printed rover developed by the European Space Agency
 
 ## Robot-Dog
-- [LOTP Robotdog V2](https://www.smilingrobo.com/projects/6cqirmshct9uiqj0bnqn) - Opensource Modular Robot dog project.
+- [LOTP Robotdog V2](https://www.smilingrobo.com/projects/6cqirmshct9uiqj0bnqn) - Opensource Modular Robot dog project
+- [Dingo](https://www.smilingrobo.com/projects/ryjl5gsjorundeyxvdtg) - A Low Cost, Open-Source Robot Quadruped
 
 ## Balancing Robot 
 - [MABEL - self balancing robot](https://www.smilingrobo.com/projects/alaldckvv0fpzxfxpnxq) - MABEL is an ongoing open-source self-balancing robot project inspired by the famous Boston Dynamics Handle robot.
 
 ## Mobile Robot 
 - [Linorobot](https://www.smilingrobo.com/projects/4y86rbokekp04xzc3xko) - Suite of low-cost open-source mobile robots
+- [OpenMower](https://www.smilingrobo.com/projects/wvcrsvactaz8ia0y8twe) - Modern, Smart RTK GPS based lawn mowing robot
 
 ## Vision Model
 - [Pollen-Vision](https://smilingrobo.com/projects/5wldvzuo0oyefxhjdyes) - Simple and unified interface to zero-shot computer vision models curated for robotics use cases.
+
+## Other
+- [Mobile ALOHA](https://www.smilingrobo.com/projects/rx6yiflaldiueyunn3gx) - House keeping robot by stanford university
 
 All these robot are hosted on SmilingRobo Platform of opensource robotics. Visit [SmilingRobo](https://www.smilingrobo.com/)
