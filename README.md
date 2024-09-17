@@ -1,7 +1,7 @@
 # Opensource Robotics Projects
-## Visit [SmilingRobo](https://www.smilingrobo.com/) for code and details. 
+### Visit [SmilingRobo](https://www.smilingrobo.com/) for code and details. 
 
-## SmilingRobo Simulaitons 
+### SmilingRobo Simulaitons 
 ### Nvidia Omniverse
 - [ExoMy in Isaac Gym](https://www.smilingrobo.com/simulation/tdimyeeo6obnugeprqsk) - Training ExoMy to navigate in an unstructured Mars environment.
 - [Robot Dog walk](https://www.smilingrobo.com/simulation/qntgljrns5dpkdhj2udh) - Attempting to train the Bittle robot dog to walk with reinforcement learning.
