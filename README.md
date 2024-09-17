@@ -1,13 +1,13 @@
 # Opensource Robotics Projects
 ## Visit [SmilingRobo](https://www.smilingrobo.com/) for code and details. 
 
-# SmilingRobo Simulaitons 
-## Nvidia Omniverse
+## SmilingRobo Simulaitons 
+### Nvidia Omniverse
 - [ExoMy in Isaac Gym](https://www.smilingrobo.com/simulation/tdimyeeo6obnugeprqsk) - Training ExoMy to navigate in an unstructured Mars environment.
 - [Robot Dog walk](https://www.smilingrobo.com/simulation/qntgljrns5dpkdhj2udh) - Attempting to train the Bittle robot dog to walk with reinforcement learning.
 
 # Projects
-## Humanoid Robot
+### Humanoid Robot
 - [Unitree H1 Teleoperation](https://www.smilingrobo.com/projects/dg8httijcnoecyeqy3qe) - Teleoperation of the humanoid robot Unitree H1_2 using Apple Vision Pro.
 - [HumanPlus](https://smilingrobo.com/projects/cayql8chgedeqqd85bef) - HumanPlus is an open-source humanoid robot developed by researchers at Stanford University.
 - [Poppy Humanoid](https://smilingrobo.com/projects/7fvuuahavv8ikj47pook) - Poppy Humanoid integrates advanced robotic features in a modular and easy-to-use open source platform.
