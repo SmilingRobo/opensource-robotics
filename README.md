@@ -2,11 +2,11 @@
 ### Visit [SmilingRobo](https://www.smilingrobo.com/) for code and details. 
 <a href="https://www.buymeacoffee.com/SupportSmilingRobo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-## Libraries 
+# Open source Libraries 
 - [real-to-sim-to-real](https://github.com/SmilingRobo/real-to-sim-to-real) - Simplify the training and deployment of robotic policies from simulated to real environments.
 - [Imagination-to-Real](https://github.com/SmilingRobo/imagination-to-real) - Train your robot to do whatever you want using Generative AI
 
-## SmilingRobo Simulaitons 
+# SmilingRobo Simulaitons 
 ### Petoi Robots
 - [Voice-Control for Bittle](https://www.smilingrobo.com/simulation/jlwz0zjj2uczl7d3jcum) - Real-time voice control module for Bittle to do some actions
 - [OpenCat Imitation](https://www.smilingrobo.com/simulation/c5ws6xbxg7xshryliy9n) - Training OpenCat robot to imitate various human body movements
