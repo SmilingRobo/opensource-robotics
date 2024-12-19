@@ -8,8 +8,8 @@
 
 ## SmilingRobo Simulaitons 
 ### Petoi Robots
--[Voice-Control for Bittle](https://www.smilingrobo.com/simulation/jlwz0zjj2uczl7d3jcum) - Real-time voice control module for Bittle and command Bittle to do some actions
--[OpenCat Imitation](https://www.smilingrobo.com/simulation/c5ws6xbxg7xshryliy9n) - Training OpenCat robot to imitate various human body movements
+- [Voice-Control for Bittle](https://www.smilingrobo.com/simulation/jlwz0zjj2uczl7d3jcum) - Real-time voice control module for Bittle to do some actions
+- [OpenCat Imitation](https://www.smilingrobo.com/simulation/c5ws6xbxg7xshryliy9n) - Training OpenCat robot to imitate various human body movements
 
 ### Nvidia Omniverse
 - [ExoMy in Isaac Gym](https://www.smilingrobo.com/simulation/tdimyeeo6obnugeprqsk) - Training ExoMy to navigate in an unstructured Mars environment.
