@@ -2,7 +2,16 @@
 ### Visit [SmilingRobo](https://www.smilingrobo.com/) for code and details. 
 <a href="https://www.buymeacoffee.com/SupportSmilingRobo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+## Libraries 
+- [real-to-sim-to-real](https://github.com/SmilingRobo/real-to-sim-to-real) - The real-to-sim-to-real is designed to simplify the training and deployment of robotic policies from simulated to real environments.
+- [Imagination-to-Real](https://github.com/SmilingRobo/imagination-to-real) - Train your robot to do whatever you want using Generative AI
+
 ## SmilingRobo Simulaitons 
+
+### Petoi Robots
+-[Voice-Control for Bittle](https://www.smilingrobo.com/simulation/jlwz0zjj2uczl7d3jcum) - Real-time voice control module for Bittle and command Bittle to do some actions
+-[OpenCat Imitation](https://www.smilingrobo.com/simulation/c5ws6xbxg7xshryliy9n) - Training OpenCat robot to imitate various human body movements
+
 ### Nvidia Omniverse
 - [ExoMy in Isaac Gym](https://www.smilingrobo.com/simulation/tdimyeeo6obnugeprqsk) - Training ExoMy to navigate in an unstructured Mars environment.
 - [Robot Dog walk](https://www.smilingrobo.com/simulation/qntgljrns5dpkdhj2udh) - Attempting to train the Bittle robot dog to walk with reinforcement learning.
