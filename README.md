@@ -16,6 +16,8 @@
 - [Robot Dog walk](https://www.smilingrobo.com/simulation/qntgljrns5dpkdhj2udh) - Attempting to train the Bittle robot dog to walk with reinforcement learning.
 
 # Projects
+- [OttoNinja](https://github.com/OttoDIY/OttoNinja) - First emotional modular EdTech robot that can walk and roll.
+  
 ### Humanoid Robot
 - [Unitree H1 Teleoperation](https://www.smilingrobo.com/projects/dg8httijcnoecyeqy3qe) - Teleoperation of the humanoid robot Unitree H1_2 using Apple Vision Pro.
 - [HumanPlus](https://smilingrobo.com/projects/cayql8chgedeqqd85bef) - HumanPlus is an open-source humanoid robot developed by researchers at Stanford University.
