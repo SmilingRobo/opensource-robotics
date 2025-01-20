@@ -25,7 +25,6 @@
 - [InMoov](https://smilingrobo.com/projects/k1wiwqexdlqo89xuuson) - Open-source 3D printed humanoid robot that can be built using a standard 3D printer
 - [RX1 Humanoid](https://www.smilingrobo.com/projects/trfz8q1rb4nxkaz1omam) - RX1 humanoid robot $1000 Humanoid for Everyone
 - [Salvius](https://www.smilingrobo.com/projects/gpydi9agbwjb57vlgxaf) - Salvius is a humanoid robot made from recycled parts.
-- [test robot](https://www.smilingrobo.com) - test is a opensource humanoid robot.
 
 ## Robotic Arm
 - [3D Printable Robot Arm](https://www.smilingrobo.com/projects/juqj3ludp4ohb5wuyrqo) - A printable robot arm, a little bigger than the usual hobby servo once.
