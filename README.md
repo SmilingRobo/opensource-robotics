@@ -53,5 +53,3 @@
 
 ## Other
 - [Mobile ALOHA](https://www.smilingrobo.com/projects/rx6yiflaldiueyunn3gx) - House keeping robot by stanford university
-
-All these robot are hosted on SmilingRobo Platform of opensource robotics. Visit [SmilingRobo](https://www.smilingrobo.com/)
